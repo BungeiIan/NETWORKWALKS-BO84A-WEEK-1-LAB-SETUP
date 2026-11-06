@@ -324,7 +324,7 @@ This laboratory is intended strictly for educational purposes and authorized sec
 Software Engineering Student, Kisii University
 
 GitHub: [https://github.com/your-username](https://github.com/BungeiIan)\
-LinkedIn: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/BungeiIan/)
+LinkedIn: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/bungeiIan/)
 
 ---
 
