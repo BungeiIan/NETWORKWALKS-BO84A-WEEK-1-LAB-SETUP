@@ -323,8 +323,8 @@ This laboratory is intended strictly for educational purposes and authorized sec
 **Ian Bungei Imbayi**\
 Software Engineering Student, Kisii University
 
-GitHub: [https://github.com/your-username](https://github.com/your-username)\
-LinkedIn: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/your-profile/)
+GitHub: [https://github.com/your-username](https://github.com/BungeiIan)\
+LinkedIn: [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/BungeiIan/)
 
 ---
 
