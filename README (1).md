@@ -93,11 +93,12 @@ Additional target machines can be added to the same virtual network in future pr
 | 🧩 Component       | ⚙️ Configuration                     |
 | ------------------ | ------------------------------------ |
 | 🖥️ Host OS         | Windows 11                           |
-| 🧠 Host RAM        | _add yours_                          |
-| ⚡ Processor       | _add yours_                          |
+| 🧠 Host RAM        | 8gb                         |
+| ⚡ Processor       | Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz, 2496 Mhz, 2 Core(s), 4 Logical Processor(s)
+                         |
 | 🧰 Hypervisor      | Oracle VirtualBox                    |
 | 🐉 Security OS     | Kali Linux 2026.3 (amd64)            |
-| 🧠 Kali RAM        | _add yours_                          |
+| 🧠 Kali RAM        | 4gb                          |
 | 🌐 Virtual Network | NAT Network (`NatNetwork1`)          |
 | 📡 Network Address | 10.0.0.0/24                          |
 | 🐧 Kali IP Address | 10.0.0.2/24 (static)                 |
